@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GoogleBooks API App</string>
+    <string name="button_one">Search</string>
+    <string name="button_two">Feeling Lucky</string>
+    <string name="error">No Request</string>
+</resources>
